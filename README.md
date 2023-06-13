@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Profile
+Hello! My name is `Arsya`
+> I'm a third-year undergraduate student
+> at UPN Veteran Jawa Timur
+> Majoring in Information Systems
