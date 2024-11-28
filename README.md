@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 
 # Profile
 Hello! My name is `Arsya`
-> I'm a third-year undergraduate student
-> at UPN Veteran Jawa Timur
-> Majoring in Information Systems
+> I'm a motivated web developer with experience in building responsive and dynamic web applications. Proficient in JavaScript, HTML, and CSS, with a strong foundation in front-end development. Skilled in creating user-friendly interfaces, solving technical challenges, and delivering projects on time. Passionate about continuous learning and dedicated to building modern web solutions that meet user needs.
