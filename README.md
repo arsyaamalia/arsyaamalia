@@ -16,7 +16,7 @@
 
 ---
 
-## 🙋‍♀️ About Me
+## 🙋🏻‍♀️ About Me
 
 - 🔍 Data Analyst with **2+ year** of experience in operational analytics & reporting automation
 - ⚙️ Built **2 end-to-end Apps Script automations** with **0% error rate**, cutting report time from **15 min → 3–5 min**
