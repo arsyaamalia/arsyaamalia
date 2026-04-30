@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <defs>
+    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2563EB"/>
+      <stop offset="100%" stop-color="#059669"/>
+    </linearGradient>
+    <linearGradient id="gLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2563EB"/>
+      <stop offset="100%" stop-color="#059669"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Rounded square frame white -->
+  <rect x="0" y="0" width="400" height="400" rx="80" fill="#FFFFFF"/>
+
+  <!-- Logo centered -->
+  <g transform="translate(200, 200)">
+    <!-- Left leg -->
+    <line x1="-88" y1="132" x2="0" y2="-116" stroke="url(#g1)" stroke-width="26" stroke-linecap="round"/>
+    <!-- Right leg -->
+    <line x1="88" y1="132" x2="0" y2="-116" stroke="url(#g1)" stroke-width="26" stroke-linecap="round"/>
+    <!-- Sparkline crossbar -->
+    <polyline
+      points="-56,28 -36,4 -16,40 4,-8 24,24 44,-4 60,28"
+      fill="none"
+      stroke="url(#gLine)"
+      stroke-width="7"
+      stroke-linecap="round"
+      stroke-linejoin="round"/>
+    <!-- Data nodes -->
+    <circle cx="-56" cy="28"  r="8"  fill="#2563EB"/>
+    <circle cx="-16" cy="40"  r="7"  fill="#2563EB"/>
+    <circle cx="4"   cy="-8"  r="10" fill="url(#g1)"/>
+    <circle cx="44"  cy="-4"  r="7"  fill="#059669"/>
+    <circle cx="60"  cy="28"  r="8"  fill="#059669"/>
+    <!-- Apex dot -->
+    <circle cx="0"   cy="-116" r="11" fill="url(#g1)"/>
+  </g>
+</svg>
