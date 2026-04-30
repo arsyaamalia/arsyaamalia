@@ -124,5 +124,5 @@ I'm always open to interesting conversations, collaborations, or just a good cha
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=arsyaamalia&color=2563EB&style=flat-square&label=Profile+Views" alt="Profile views"/>
   
-  *"Data is only as valuable as the decisions it drives."*
+  *"Data means nothing if nobody uses it. I make sure they do."*
 </div>
