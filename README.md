@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/arsyaamalia/arsyaamalia/main/arsya_logo_white.svg" width="100" height="100" style="border-radius:20px;" />
+<img src="https://raw.githubusercontent.com/arsyaamalia/arsyaamalia/main/arsya_logo.svg" width="100" height="100" style="border-radius:20px;" />
 
 # Hi, I'm Arsya Amalia Ristias 👋
 ### Data Analyst · Surabaya, Indonesia
 
-*Data is only as valuable as the decisions it drives. I build the pipelines, automations, and reports that close the gap between raw numbers and real action — clearly, reliably, and fast.*
+*Data is only as valuable as the decisions it drives. I turn raw, messy data into something clear, reliable, and worth reading.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arsyaamalia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arsyaamalia/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-arsyaamalia.dev-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://arsyaamalia.dev)
