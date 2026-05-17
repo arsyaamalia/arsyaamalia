@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/arsyaamalia/arsyaamalia/main/arsya_logo.svg" width="100" height="100" style="border-radius:20px;" />
 
 # Hi, I'm Arsya Amalia Ristias 👋
-### Data Analyst · Surabaya, Indonesia
+### Data Analyst · Jakarta, Indonesia
 
 *Data is only as valuable as the decisions it drives. I turn raw, messy data into something clear, reliable, and worth reading.*
 
@@ -25,7 +25,7 @@
 - 🏆 **Top 10 Incubated Team** — Bangkit 2023 H2 Capstone Product-Based Track
 - 🚀 Founder & CEO of **Eventhings** — an event listing platform with ML-based recommendation system
 - 🌐 Organizer at **Google Developer Groups Cloud Surabaya** & **Women Techmakers**
-- 📍 Based in Surabaya, open to relocation & remote opportunities
+- 📍 Based in Jakarta, open to relocation & remote opportunities
 
 ---
 
