@@ -18,7 +18,7 @@
 
 ## 🙋🏻‍♀️ About Me
 
-- 🔍 Data Analyst with **2+ year** of experience in operational analytics & reporting automation
+- 🔍 Data Analyst with **3+ year** of experience in operational analytics & reporting automation
 - ⚙️ Built **2 end-to-end Apps Script automations** with **0% error rate**, cutting report time from **15 min → 3–5 min**
 - 📊 Maintained **~80% SLA achievement rate** across multiple content moderation queues for a full year
 - 🤖 Machine Learning background from **Bangkit Academy** (GPA 95.47/100) led by Google, Tokopedia, Gojek & Traveloka
